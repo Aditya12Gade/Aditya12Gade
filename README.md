@@ -2,9 +2,9 @@
   <h1 align="center"> Hi there! 👋 This is ADITYA GADE</h1>
 </a>
 
-[![GitHub Aditya Gade](https://img.shields.io/badge/Aditya_gade-Github-blue)](https://github.com/Aditya12Gade)
-[![Linkedin: Aditya Gade](https://img.shields.io/badge/Shrikant%20Gade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shrikant-gade/)](https://www.linkedin.com/in/aditya-gade-5667b7193/)
-[![Medium](https://img.shields.io/badge/)](https://medium.com/@adityagade0751)
+[![GitHub Aditya Gade](https://img.shields.io/badge/Aditya_Gade-Github-grey)](https://github.com/Aditya12Gade)
+[![Linkedin: Aditya Gade](https://img.shields.io/badge/Aditya_Gade-Linkedin-blue)](https://www.linkedin.com/in/aditya-gade-5667b7193/)
+[![Medium](https://img.shields.io/badge/Aditya_Gade-MediuM-white)](https://medium.com/@adityagade0751)
 
 
 
