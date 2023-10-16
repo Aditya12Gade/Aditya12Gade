@@ -4,8 +4,8 @@
 
 [![GitHub Aditya Gade](https://img.shields.io/github/followers/shrikgade?label=follow&style=social)](https://github.com/Aditya12Gade)
 [![Linkedin: Aditya Gade](https://img.shields.io/badge/Shrikant%20Gade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shrikant-gade/)](https://www.linkedin.com/in/aditya-gade-5667b7193/)
-[![Medium](https://img.shields.io/badge/medium-shrikantgade-blue?style=flat&logo=appveyor&link=https://medium.com/@theshrikantgade)](https://medium.com/@adityagade0751)
-[![Hacker rank](https://img.shields.io/badge/kaggle-SHRIKANTGADE-blue?style=flat&logo=appveyor&link=https://www.kaggle.com/shrikantgade)](https://www.kaggle.com/shrikantgade)
+[![Medium](https://img.shields.io/badge/)](https://medium.com/@adityagade0751)
+
 
 
 
