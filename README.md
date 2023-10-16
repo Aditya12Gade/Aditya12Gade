@@ -11,9 +11,9 @@
 
 
 
-- 🔭 I’m currently working on - * JAVA, MYSQL, HTML, CSS, JAVASCRIPT, REACT.js, NODE.js *
+-  Front-end wizard with HTML, CSS, and JavaScript, crafting user-friendly interfaces.
 
-- 🌱 I’m currently learning - * Full Stack Web Development (MERN) and Data Structures *
+-  Strong grasp of Data Structures and Algorithms (DSA) for problem-solving.
 
-- 👯 I’ve recently worked on multiple Industrial relevant projects - *as part of my undergraduate program* 
-`
+-  Enthusiastic about open source and collaborative coding projects.
+
